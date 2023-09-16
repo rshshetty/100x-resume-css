@@ -1,0 +1,99 @@
+html {
+   
+    background-color: #e4d7d7;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    margin: 0 2em;
+    padding: 1em;
+}
+header h3{
+display: inline-block;
+margin:0 8%;
+}
+
+header a{
+    font-size: 1px;
+    background-size: 2px;
+}
+
+h1 {
+    text-align: center;
+    margin: 2em auto;
+    padding: 0;
+}
+
+div{
+    width: 20px;
+}
+svg {
+    width: 100%;
+}
+.skil {
+    display: inline-block; 
+    /* margin: 10px;
+ padding: 2px;    */
+ vertical-align: top;
+ margin: 0 5%;
+
+
+
+}
+
+#furni{
+    margin: 0 6em;
+}
+#revents{
+    justify-content: flex-start;
+}
+
+#weather{
+    justify-content: flex-end;
+}
+
+
+skilledu{
+    display: flex;
+    justify-content: space-evenly;
+    vertical-align: top;
+
+}
+
+project{
+    margin: 1px auto;
+    display: flex;
+    justify-content: center;
+
+}
+ 
+a{
+    text-decoration: none;
+   color: black;
+
+}
+project h2 {
+    text-align: center;
+margin:2em;
+}
+li {
+    padding: 0.3em;
+}
+
+
+#personal {
+
+  text-align: center;
+  margin: 2em auto;
+}
+
+.links {
+    font-size: 13px;
+    color: blue;
+   float: right;
+   margin-left: 5px;
+}
+
+project projectname h4{
+    display: inline;
+}
